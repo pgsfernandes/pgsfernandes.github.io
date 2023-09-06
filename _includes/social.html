@@ -1,6 +1,15 @@
             {%- if site.email -%}
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
             {% endif %}
+            {%- if true -%}
+            <a href="https://inspirehep.net/authors/1738631?ui-citation-summary=true" title="inspire"><i class="ai ai-inspire"></i></a>
+            {% endif %}
+            {%- if true -%}
+            <a href="https://scholar.google.com/citations?user=t1U8_ZIAAAAJ&hl=en" title="google-scholar"><i class="ai ai-google-scholar"></i></a>
+            {% endif %}
+            {%- if true -%}
+            <a href="https://arxiv.org/search/gr-qc?searchtype=author&query=Fernandes,+P+G+S" title="arxiv"><i class="ai ai-arxiv"></i></a>
+            {% endif %}
             {%- if site.telegram_username -%}
             <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fab fa-telegram"></i></a>
             {% endif %}
