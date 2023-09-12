@@ -1,4 +1,5 @@
-          <div class="news">
+         
+         <div class="news">
             {% if site.news != blank -%}
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
@@ -11,7 +12,7 @@
               {% endif %}
               {% for item in news limit: news_limit %}
                 <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <th scope="row" style="white-space: nowrap;">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
                     {% if item.inline -%}
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
@@ -27,3 +28,54 @@
             <p>No news so far...</p>
           {%- endif %}
           </div>
+        
+
+        <!--
+        <div class="news">
+          {% if site.news != blank -%}
+            {%- assign news_size = site.news | size -%}
+            <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
+              {%- assign news = site.news | reverse -%}
+              
+              {% if include.limit and site.announcements.limit %}
+                {% assign news_limit = site.announcements.limit %}
+              {% else %}
+                {% assign news_limit = news_size %}
+              {% endif %}
+              
+              {%- capture current_year -%}
+              {%- endcapture -%}
+              
+              {% for item in news limit: news_limit %}
+                {%- assign item_year = item.date | date: "%Y" -%}
+                {% if current_year != item_year %}
+                  {%- if current_year != empty -%}
+                    </table>
+                  {%- endif -%}
+                  
+                  <h5>{{ item_year }}</h5>
+                  <table class="table table-sm table-borderless">
+                  {%- assign current_year = item_year -%}
+                {% endif %}
+                
+                <tr>
+                  <th scope="row" style="white-space: nowrap;">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <td>
+                    {% if item.inline -%}
+                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                    {%- else -%}
+                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {%- endif %}
+                  </td>
+                </tr>
+              {%- endfor %}
+              
+              {%- if current_year != empty -%}
+                </table>
+              {%- endif -%}
+            </div>
+          {%- else -%}
+            <p>No news so far...</p>
+          {%- endif %}
+        </div>
+      -->
