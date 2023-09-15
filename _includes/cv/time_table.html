@@ -42,6 +42,12 @@
                 <td class="department">{{content.department}}</td>
               </tr>
               {% endif %}
+              {% if content.email %}
+              <tr>
+                <td style="vertical-align: top; text-align: center;" class="department"><i class="far fa-envelope iconinstitution"></i></td>
+                <td class="institution">{{content.email}}</td>
+              </tr>
+              {% endif %}
             </tbody>
             </table>
             {% endif %}

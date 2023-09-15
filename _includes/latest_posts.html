@@ -12,8 +12,9 @@
               {% endif %}
               {% for item in latest_posts limit: latest_posts_limit %}
                 <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-                  <td>
+                  <!--<th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>-->
+                  <th scope="row" style="white-space: nowrap;">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <td width="100%">
                     {% if item.redirect == blank %}
                       <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     {% elsif item.redirect contains '://' %}
