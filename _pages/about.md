@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I hold a PhD in Physics from Queen Mary University of London, which I obtained in 2023. Prior to that, I completed my BSc and MSc degrees in Physics at Instituto Superior Técnico, University of Lisbon. I also served as a postdoctoral researcher at the University of Nottingham.
+I hold a PhD in Physics from Queen Mary University of London, which I obtained in 2023. Prior to that, I completed my BSc and MSc degrees in Physics at Instituto Superior Técnico, University of Lisbon. I also served as a postdoctoral researcher at the University of Nottingham. I am now starting a new position as a postdoctoral researcher at CP3-Origins, University of Southern Denmark.
 
 My primary research interests lie broadly in the intersection of strong gravity and black hole physics, modified theories of gravity, and astroparticle physics. Throughout my academic journey, I have focused on exploring these areas to gain a deeper understanding of the universe. This website serves as a platform to share my research and news. Feel free to explore my work and contact me for further information or collaboration opportunities.
