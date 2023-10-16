@@ -5,8 +5,8 @@
       value: Pedro G. S. Fernandes
     #- name: Date of Birth
     #  value: 14th March 1879
-    - name: Email
-      value: pgsfernandes@outlook.com
+    #- name: Email
+    #  value: pgsfernandes@cp3.sdu.dk
     - name: Languages
       value: Portuguese, English
 
