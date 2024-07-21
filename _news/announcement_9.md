@@ -16,6 +16,6 @@ I am visiting Perimeter Institute in Waterloo, Canada, from the 8th to the 26th 
         {% include figure.html path="/assets/img/Perimeter-Jul-24/IMG_1284.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/Perimeter-Jul-24/IMG_1304.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/Perimeter-Jul-24/Horndeski50years.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
