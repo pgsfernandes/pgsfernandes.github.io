@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 #run: bundle exec jekyll serve --lsi
 ---
 
-I am currently a postdoctoral researcher at CP3-Origins, University of Southern Denmark. I hold a PhD in Physics from Queen Mary University of London, which I obtained in 2023. Prior to that, I completed my BSc and MSc degrees in Physics at Instituto Superior Técnico, University of Lisbon. I was also a postdoctoral researcher at the University of Nottingham for one year.
+I am currently a postdoctoral researcher at CP3-Origins, University of Southern Denmark. I hold a PhD in Physics from Queen Mary University of London, which I obtained in 2023. Prior to that, I completed my BSc and MSc degrees in Physics at Instituto Superior Técnico, University of Lisbon. I was also a postdoctoral researcher at the University of Nottingham for one year (2022-2023).
 
-My primary research interests lie broadly in the intersection of strong gravity and black hole physics, modified theories of gravity, and astroparticle physics. Throughout my academic journey, I have focused on exploring these areas to gain a deeper understanding of the universe. This website acts as a platform for sharing my research, updates, and various other content. Feel free to explore my work and contact me for further information or collaboration opportunities.
+My primary research interests lie broadly in the intersection of strong gravity and black hole physics, and modified theories of gravity. This website acts as a platform for sharing my research, updates, and various other content. Feel free to explore my work and contact me for further information or collaboration opportunities.
+
+I am also the developer of [SpinningBlackHoles](https://github.com/pgsfernandes/SpinningBlackHoles.jl), a *Julia* code to compute numerical solutions of stationary and axially-symmetric black holes in modified theories of gravity.

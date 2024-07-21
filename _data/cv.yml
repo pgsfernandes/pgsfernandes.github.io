@@ -5,8 +5,8 @@
       value: Pedro G. S. Fernandes
     #- name: Date of Birth
     #  value: 14th March 1879
-    #- name: Email
-    #  value: pgsfernandes@cp3.sdu.dk
+    - name: Email
+      value: pgsfernandes@cp3.sdu.dk
     - name: Languages
       value: Portuguese, English
 
@@ -14,8 +14,13 @@
   type: time_table
   contents:
     - title: Postdoctoral researcher
+      institution: University of Heidelberg, Germany
+      year: Oct 2024 - 
+      description:
+        - Postdoctoral researcher.
+    - title: Postdoctoral researcher
       institution: University of Southern Denmark, Odense, Denmark
-      year: Oct 2023 - Oct 2025
+      year: Oct 2023 - Oct 2024
       description:
         - Postdoctoral researcher at the Centre for Cosmology and Particle Physics Phenomenology (CP3-Origins).
     - title: Postdoctoral researcher
@@ -45,9 +50,18 @@
     - title: <a href="https://www.qmul.ac.uk/spcs/staff/academics/profiles/dmulryne.html">David Mulryne</a>, PhD advisor
       institution: Queen Mary University of London, United Kingdom
       email: d.mulryne@qmul.ac.uk
+    - title: <a href="https://www.sdu.dk/en/forskning/fysik/forskere/astronomi/astrid-eichhorn">Astrid Eichhorn</a>, Postdoctoral mentor
+      institution: University of Southern Denmark, Denmark and University of Heidelberg, Germany
+      email: eichhorn@sdu.dk
     - title: <a href="https://www.nottingham.ac.uk/physics/people/clare.burrage">Clare Burrage</a>, Postdoctoral mentor
       institution: University of Nottingham, United Kingdom
       email: clare.burrage@nottingham.ac.uk
+    - title: <a href="https://www.nottingham.ac.uk/physics/people/thomas.sotiriou">Thomas Sotiriou</a>, Collaborator
+      institution: University of Nottingham, United Kingdom
+      email: Thomas.Sotiriou@nottingham.ac.uk
     - title: <a href="https://www.qmul.ac.uk/spcs/staff/academics/profiles/tclifton.html">Timothy Clifton</a>, PhD advisor
       institution: Queen Mary University of London, United Kingdom
       email: t.clifton@qmul.ac.uk
+    - title: <a href="https://theorie.ijclab.in2p3.fr/membres/christos-charmousis/">Christos Charmousis</a>, Collaborator
+      institution: Université Paris-Saclay IJCLab, France
+      email: christos.charmousis@ijclab.in2p3.fr

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've begun a two-year postdoctoral position in the Quantum Gravity group at CP3-Origins, University of Southern Denmark, Odense
+title: I've begun a two-year postdoctoral position in the Quantum Gravity group at CP3-Origins, University of Southern Denmark, Odense.
 date: 2023-10-17 00:00:00+0200
 inline: false
 related_posts: false
