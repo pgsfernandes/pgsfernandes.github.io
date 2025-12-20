@@ -6,16 +6,16 @@
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Email
-      value: pgsfernandes@cp3.sdu.dk
+      value: fernandes@thphys.uni-heidelberg.de
     - name: Languages
-      value: Portuguese, English
+      value: English, Portuguese
 
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral researcher
       institution: University of Heidelberg, Germany
-      year: Oct 2024 - 
+      year: Oct 2024 - Present
       description:
         - Postdoctoral researcher.
     - title: Postdoctoral researcher
@@ -37,12 +37,13 @@
       year: Nov 2019 - Jan 2023
       description:
         - "Thesis title: Gauss-Bonnet Theories of Gravity in Four-Dimensions."
-        - "Supervisors: Dr. David Mulryne and Dr. Timothy Clifton"
+        - "Supervisors: David J. Mulryne and Timothy Clifton"
     - title: BSc and MSc in Physics
       institution: Instituto Superior Técnico, University of Lisbon, Lisbon, Portugal
       year: Sep 2014 - Jul 2019
       description:
         - "MSc thesis title: Spontaneous Scalarization of Charged Black Holes"
+        - "Supervisors: Carlos Herdeiro and Eugen Radu"
 
 - title: References
   type: time_table
@@ -51,17 +52,20 @@
       institution: Queen Mary University of London, United Kingdom
       email: d.mulryne@qmul.ac.uk
     - title: <a href="https://www.sdu.dk/en/forskning/fysik/forskere/astronomi/astrid-eichhorn">Astrid Eichhorn</a>, Postdoctoral mentor
-      institution: University of Southern Denmark, Denmark and University of Heidelberg, Germany
+      institution: University of Heidelberg, Germany
       email: eichhorn@sdu.dk
-    - title: <a href="https://www.nottingham.ac.uk/physics/people/clare.burrage">Clare Burrage</a>, Postdoctoral mentor
-      institution: University of Nottingham, United Kingdom
-      email: clare.burrage@nottingham.ac.uk
-    - title: <a href="https://www.nottingham.ac.uk/physics/people/thomas.sotiriou">Thomas Sotiriou</a>, Collaborator
-      institution: University of Nottingham, United Kingdom
-      email: Thomas.Sotiriou@nottingham.ac.uk
+    - title: <a href="https://vitorcardoso.strong-gr.com">Vitor Cardoso</a>, Collaborator
+      institution: Niels Bohr Institute, Denmark and Instituto Superior Técnico, Portugal
+      email: vitor.cardoso@tecnico.ulisboa.pt
     - title: <a href="https://www.qmul.ac.uk/spcs/staff/academics/profiles/tclifton.html">Timothy Clifton</a>, PhD advisor
       institution: Queen Mary University of London, United Kingdom
       email: t.clifton@qmul.ac.uk
     - title: <a href="https://theorie.ijclab.in2p3.fr/membres/christos-charmousis/">Christos Charmousis</a>, Collaborator
       institution: Université Paris-Saclay IJCLab, France
       email: christos.charmousis@ijclab.in2p3.fr
+    - title: <a href="https://www.nottingham.ac.uk/physics/people/thomas.sotiriou">Thomas Sotiriou</a>, Collaborator
+      institution: University of Nottingham, United Kingdom
+      email: Thomas.Sotiriou@nottingham.ac.uk
+    - title: <a href="https://www.nottingham.ac.uk/physics/people/clare.burrage">Clare Burrage</a>, Postdoctoral mentor
+      institution: University of Nottingham, United Kingdom
+      email: clare.burrage@nottingham.ac.uk
