@@ -13,11 +13,16 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral researcher
-      institution: University of Heidelberg, Germany
-      year: Oct 2024 - Present
+    - title: CEEC Postdoctoral researcher
+      institution: CENTRA, Instituto Superior Técnico, Lisbon, Portugal
+      year: Oct 2026 - 
       description:
-        - Postdoctoral researcher.
+        - Postdoctoral researcher at CENTRA.
+    - title: Postdoctoral researcher
+      institution: Heidelberg University, Germany
+      year: Oct 2024 - Oct 2026
+      description:
+        - Postdoctoral researcher at the Quantum Gravity group.
     - title: Postdoctoral researcher
       institution: University of Southern Denmark, Odense, Denmark
       year: Oct 2023 - Oct 2024

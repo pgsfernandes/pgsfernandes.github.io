@@ -20,6 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 #run: bundle exec jekyll serve --lsi
 ---
-I am a postdoctoral researcher at Heidelberg University. I hold a PhD in Physics from Queen Mary University of London, which I obtained in 2023. Prior to that, I completed my BSc and MSc degrees in Physics at Instituto Superior Técnico, University of Lisbon. I was also a postdoctoral researcher at the University of Nottingham (2022-2023), and at the University of Southern Denmark (2023-2024).
+I am a postdoctoral researcher at CENTRA, Instituto Superior Técnico, University of Lisbon. My research explores the interplay between strong gravity, black hole physics, effective field theory, and modified theories of gravity.
 
-My primary research interests lie broadly in the intersection of strong gravity, black hole physics, effective field theory and modified gravity. This website acts as a platform for sharing my research, updates, and various other content. Feel free to explore my work and contact me for further information or collaboration opportunities.
+I received my PhD in Physics from Queen Mary University of London in 2023, following a BSc and MSc in Physics from Instituto Superior Técnico. Before returning to Lisbon, I held postdoctoral positions at the University of Nottingham, the University of Southern Denmark, and Heidelberg University.
+
+Here you can find my publications, current research, and recent updates. Please feel free to get in touch if you would like to discuss my work or explore potential collaborations.
